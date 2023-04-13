@@ -1,0 +1,46 @@
+#tradingview_7e36f {
+  height: 450px;
+  width: 50%;
+  margin: 0 auto;
+  display: inline-block;
+  position: absolute;
+  top: 0px;
+  left: 50%;
+  transform: translateX(-100%);
+  z-index: 999;
+}
+#tradingview_56f90 {
+  height: 450px;
+  width: 50%;
+  margin: 0 auto;
+  display: inline-block;
+  position: absolute;
+  top: 450px;
+  left: 50%;
+  transform: translateX(-100%);
+  z-index: 999;
+}
+#tradingview_818fc {
+  height: 450px;
+  width: 50%;
+  margin: 0 auto;
+  display: inline-block;
+  position: absolute;
+  top: 0px;
+  left: 100%;
+  transform: translateX(-100%);
+  z-index: 999;
+}
+#tradingview_39702 {
+  height: 450px;
+  width: 50%;
+  margin: 0 auto;
+  display: inline-block;
+  position: absolute;
+  top: 450px;
+  left: 100%;
+  transform: translateX(-100%);
+  z-index: 999;
+}
+
+
